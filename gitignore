@@ -1,0 +1,14 @@
+# Credenziali e segreti: non vanno MAI su GitHub
+.env
+*.key
+*.pem
+credentials*.json
+token*.json
+.clasp.json
+.clasprc.json
+
+# File di sistema e di editor
+.DS_Store
+Thumbs.db
+.vscode/
+node_modules/
